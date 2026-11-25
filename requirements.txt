@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-neo4j
+faiss-cpu
+rank_bm25
+neo4j
+streamlit
